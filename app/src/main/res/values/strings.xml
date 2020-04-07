@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocationFBNew</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="update">Update</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="title_activity_passanger">Map</string>
+</resources>
